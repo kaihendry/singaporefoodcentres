@@ -19,7 +19,7 @@ function initialize() {
 	}
 	var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
 
-	downloadUrl("data.txt", function(data, responseCode) {
+	downloadUrl("hawkers.txt", function(data, responseCode) {
 
 		if (responseCode == 200) {
 			lines = data.split('\n');
