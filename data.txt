@@ -1,0 +1,107 @@
+Adam Road Food Centre:1.3245182:103.8138708
+Amoy Street Food Centre; Telok Ayer Food Centre:
+Bedok Food Centre:1.3208362:103.955416
+Beo Crescent Market:1.288766:103.827528
+Berseh Food Centre:1.3077334:103.8569421
+Bukit Timah Market:1.3394268:103.7760052
+Commonwealth Crescent Market:1.3071239:103.7992869
+Dunman Food Centre:1.3096047:103.9016702
+East Coast Lagoon Food Village:1.3063223:103.9344092
+Geylang Serai Market:1.3168414:103.8974119
+Golden Mile Food Centre:1.3029381:103.8641981
+Holland Village Market & Food Centre:1.311099:103.7949639
+Kallang Estate Fresh Market & Food Centre; Kallang Estate Market:1.307274:103.883998
+Market Street Food Centre; Golden Shoe Food Centre:
+Maxwell Food Centre; Kim Hua Market:1.2796695:103.8447724
+Newton Food Centre; Newton Circus Food Centre:1.312041:103.839179
+North Bridge Road Market; North Bridge Road Market/Food Centre:43.300652:-88.080739
+Pasir Panjang Food Centre:1.2759:103.791393
+Chomp Chomp Food Centre:1.364548:103.8663739
+Serangoon Garden Market:1.363381:103.866835
+Sembawang Hill Food Centre; Jalan Leban Food Centre:1.3721801:103.8291017
+Taman Jurong Market & Food Centre:1.3341966:103.7220663
+Tanglin Halt Market:1.3009936:103.7980769
+Tiong Bahru Market:1.2844867:103.832344
+Zion Riverside Food Centre:1.292413:103.830988
+Blk 117 Aljunied Market & Food Centre:1.320653:103.886925
+Teck Ghee Court:1.3647165:103.8485993
+Chong Boon Market & Food Centre:1.367925:103.856773
+Mayflower Market:1.37426:103.838842
+Kebun Baru Market & Food Centre:1.366795:103.839176
+Kebun Baru Food Centre:1.3678155:103.8383786
+Teck Ghee Square:1.363019:103.855294
+Cheng San Market & Cooked Food Centre:1.3727609:103.8543059
+Ang Mo Kio 628 Market :1.3809769:103.840658
+Blk 724 Ang Mo Kio Market & Food Centre:1.372185:103.846562
+Blk 216 Bedok North Street 1:1.32735:103.933263
+Kaki Bukit 511 Market & Food Centre:1.333244:103.930561
+Blk 538 Bedok North Street 3:1.331798:103.924861
+85 Fengshan Centre:1.3317701:103.9389051
+Blk 630 Bedok Reservoir Road:1.3332288:103.913927
+Blk 16 Bedok South Road :1.320549:103.9355549
+Bendemeer Market & Food Centre:1.319142:103.863322
+Blk 120 Bukit Merah Lane Food Centre; Alexandra Village Food Centre:1.286343:103.804526
+Blk 163 Bukit Merah Central; Bukit Merah Central Food Centre:1.2844937:103.8161166
+Blk 115 Bukit Merah View Market & Food Centre:1.2854718:103.8225445
+Boon Lay Place Market & Food Village:1.345686:103.713082
+Tekka Centre; Zhu Jiao Market:1.3056189:103.851184
+Tanglin Halt Food Centre; Commonwealth Drive Food Centre:1.3000798:103.7972852
+Pek Kio Market & Food Centre:1.316263:103.849928
+Blk 2 & 3 Changi Village :1.389652:103.988118
+Blk 79/79A Circuit Road:1.3256079:103.88493
+80 Circuit Road Market & Food Centre:1.3277088:103.8870816
+Blk 89 Circuit Road:1.3235835:103.8851178
+Clementi Ave 2 Market / Cooked Food Centre:1.314399:103.770821
+Blk 448 Clementi Ave 3:1.313218:103.764506
+Blk 726 Clementi West Street 2:1.303831:103.764132
+Empress Road Market & Food Centre:1.3164558:103.8057946
+Blk 4A Eunos Crescent:1.320065:103.903711
+Blk 69 Geylang Bahru Market & Food Centre:1.321461:103.870115
+Blk 20 Ghim Moh Road:1.311118:103.788465
+Haig Road Market & Cooked Food Centre:1.3152322:103.8950301
+Havelock Road Cooked Food Centre:1.2877391:103.8292837
+Holland Drive Market & Food Centre:1.3081509:103.7930368
+Hougang 105 Hainanese Village Centre:1.354063:103.890125
+Kovan Hougang Market & Food Centre:1.3595296:103.8858854
+Blk 4A Jalan Batu Hawker Centre/Market:1.302428:103.883923
+Kukoh 21 Food Centre; Jalan Kukoh Market & Hawker Centre:1.288274:103.839817
+Blk 112 Jalan Bukit Merah Market & Food Centre:1.2807081:103.8265618
+ABC Brickworks Market/Food Centre:1.2870511:103.8079756
+Yuhua Market & Hawker Centre:1.345236:103.731466
+Yuhua Village Market & Food Centre:1.343434:103.73778
+Blk 505 Jurong West Street 52:1.3498657:103.7181653
+84 Marine Parade Central ( Market & Food Centre ):1.302245:103.906557
+50A Marine Terrace:1.3062778:103.9143809
+Blk 20/21 Marsiling Lane:1.444247:103.7777628
+Mei Chin Road Market:1.293396:103.8024531
+People's Park Food Centre:1.284987:103.842602
+Blk 207 New Upper Changi Road:1.3252923:103.9304286
+Blk 58 New Upper Changi Road:1.324313:103.941176
+51 Old Airport Road Food Centre & Shopping Mall:1.3081597:103.8860951
+Albert Centre Market & Food Centre:1.3010891:103.8546831
+Redhill Market:1.2878266:103.8181035
+Redhill Food Centre:1.287351:103.818363
+Shunfu Mart:1.3519381:103.8373271
+Sims Vista Market & Food Centre:1.316995:103.8792519
+Chinatown Complex Market:47.6414218:-122.3618112
+Tampines Round Market & Food Centre:1.345531:103.94471
+Teban Gardens Market & Food Centre:1.32087:103.742765
+11 Telok Blangah Crescent Market & Food Centre:1.277431:103.818672
+Telok Blangah Rise Market:1.272617:103.821985
+Telok Blangah Food Centre:1.273301:103.807598
+Telok Blangah Market :1.273787:103.807777
+Blk 6 Tanjong Pagar Plaza Market & Food Centre:1.2767194:103.8429447
+Toa Payoh Vista Market :1.334904:103.8512903
+Blk 210 Toa Payoh Lorong 8 :1.340213:103.854422
+Toa Payoh West Market & Food Court:1.338084:103.844724
+Blk 93 Toa Payoh Lorong 4:1.338254:103.850025
+Blk 75 Toa Payoh Lorong 5:1.336115:103.853005
+Kim Keat Palm Market & Food Centre:1.335231:103.857027
+Blk 17 Upper Boon Keng Market & Food Centre:1.315038:103.871636
+Hong Lim Food Centre & Market:1.2838994:103.8460832
+Ayer Rajah Market:1.311718:103.759029
+Ayer Rajah Food Centre:1.31172:103.75967
+Whampoa Drive Makan Place; Whampoa Food Centre:1.3226058:103.8544582
+Whampoa Drive Makan Place; Whampoa Market:1.323207:103.853863
+Blk 4A Woodlands Centre Road:1.4398829:103.7698554
+Chong Pang Market & Food Centre:1.4319539:103.8281328
