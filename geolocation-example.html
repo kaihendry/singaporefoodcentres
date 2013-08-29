@@ -1,22 +1,27 @@
+<!DOCTYPE html>
 <html>
 <head>
+<title>Geolocation</title>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-<meta charset="UTF-8">
-<link href="http://code.google.com//apis/maps/documentation/javascript/examples/default.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<link href="/maps/documentation/javascript/examples/default.css" rel="stylesheet">
+<!--
+	Include the maps javascript with sensor=true because this code is using a
+	sensor (a GPS locator) to determine the user's location.
+	See: https://developers.google.com/apis/maps/documentation/javascript/basics#SpecifyingSensor
+	-->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
 
-<script type="text/javascript"
-src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
-
-<script type="text/javascript">
+<script>
 var map;
 
 function initialize() {
-	var myOptions = {
+	var mapOptions = {
 zoom: 6,
 	  mapTypeId: google.maps.MapTypeId.ROADMAP
 	};
-	map = new google.maps.Map(document.getElementById('map_canvas'),
-			myOptions);
+	map = new google.maps.Map(document.getElementById('map-canvas'),
+			mapOptions);
 
 	// Try HTML5 geolocation
 	if(navigator.geolocation) {
@@ -58,9 +63,10 @@ map: map,
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
+
 </script>
 </head>
 <body>
-<div id="map_canvas"></div>
+<div id="map-canvas"></div>
 </body>
 </html>
