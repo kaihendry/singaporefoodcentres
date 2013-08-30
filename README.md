@@ -28,8 +28,3 @@ This is where HAWKERCENTRE.kml comes from.
 [NEA Hawkers page](http://www.myhawkers.sg/) sadly has an [unusable hawkers map](http://www.myhawkers.sg/discover).
 
 However it does expose its API and the myhawkers.json is the best information I've seen.
-
-# Drawing a map
-
-By default "Google Maps JavaScript API v3" does not show marker info or the
-closest marker, when viewing the map from IOS Safari.
