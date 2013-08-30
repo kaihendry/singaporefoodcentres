@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<meta charset="utf-8" />
+<title>Singapore Hawker centres</title>
+<style>
+body { height: 100%; margin: 0px; padding: 0px }
+html, #map_canvas { width: 100%; height: 100% }
+</style>
+<script src="http://maps.google.com/maps/api/js?v=3.exp&amp;sensor=true"></script>
+<script>
+m4_include(mymap.js)
+m4_include(myhawkers.json)
+</script>
+</head>
+<body onload="initialize()">
+<div id="map_canvas"></div>
+</body>
+</html>

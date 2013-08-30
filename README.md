@@ -25,7 +25,7 @@ This is where HAWKERCENTRE.kml comes from.
 
 <img src=http://s.natalian.org/2013-08-29/1377742549_1366x768.png>
 
-[NEA Hawkers page](http://www.myhawkers.sg/) sadly has an [unusable hawkers map](http://www.myhawkers.sg/discover)
+[NEA Hawkers page](http://www.myhawkers.sg/) sadly has an [unusable hawkers map](http://www.myhawkers.sg/discover).
 
 However it does expose its API and the myhawkers.json is the best information I've seen.
 
