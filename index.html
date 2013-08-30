@@ -13,7 +13,6 @@ html, #map_canvas { width: 100%; height: 100% }
 function initialize() {
 	var myLatlng = new google.maps.LatLng(1.3010,103.8600);
 
-
 	var myOptions = {
 		zoom: 12,
 		center: myLatlng,
@@ -24,23 +23,29 @@ function initialize() {
 	// Try HTML5 geolocation
 	if(navigator.geolocation) {
 		navigator.geolocation.getCurrentPosition(function(position) {
-				var pos = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-				map.setCenter(pos);
-				});}
+			var pos = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+			map.setCenter(pos);
+		});}
 
-
-
-	for(x in foo.Locations){
-		// console.log(foo.Locations[x].place_name);
-
-		var p = new google.maps.LatLng(foo.Locations[x].lat, foo.Locations[x].lng);
-
+	function createMarker(h) {
 		var marker = new google.maps.Marker({
-			position: p,
-			map: map,
-			title: foo.Locations[x].place_name
+			position: new google.maps.LatLng(h.lat, h.lng),
+			map: map, 
+			title: h.place_name
 		});
 
+		var infowindow = new google.maps.InfoWindow({
+			content: "<h1>" + h.place_name + "</h1><p>" + h.place_desc + "</p>"
+		});
+
+		google.maps.event.addListener(marker, 'click', function() {
+			infowindow.open(map,marker);
+		});
+		return marker;
+	}
+
+	for(x in foo.Locations){
+		createMarker(foo.Locations[x]);
 	}
 }
 
