@@ -28,7 +28,7 @@ function initialize() {
 		});
 
 		google.maps.event.addListener(marker, 'click', function() {
-			var s = "<h3>" + h.place_name + "</h3><p>" + h.place_desc + "</p>";
+			var s = "<h3>" + h.place_name + "</h3><h4>Rating: " + h.overall + "</h4><p>" + h.place_desc + "</p>";
 			if (iOS) {
 				//s += '<a href="maps://?q=' + h.place_location + '">map</a></li>';
 				s += '<p><a href="comgooglemaps://?q=' + h.place_location + '">Directions</a></p>';
