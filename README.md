@@ -29,9 +29,9 @@ This is where HAWKERCENTRE.kml comes from.
 
 However it does expose its API and the myhawkers.json is the best information I've seen.
 
-# Improving [[myhawkers.json]]
+# Improving the map's markers
 
-* Do a pull request on [[myhawkers.json]], since it's what drives the map!
+* Do a pull request on [myhawkers.json](myhawkers.json), since it's what drives the map!
 * Include [Kopitiam outlets](http://www.kopitiam.biz/outlet_singapore.html)
-* Include places like [makansutra's glutton bay](http://www.makansutra.com/eateries_stalls.asp)
+* Include places like [Makansutra's glutton bay](http://www.makansutra.com/eateries_stalls.asp)
 * Other food courts that seemingly are unlisted like [Peace Food court](https://foursquare.com/v/food-district-food-court/4ca2e813d7c33704c06d9c62). Is it possible to gleam [Food court listing from Foursquare](https://foursquare.com/explore?mode=url&near=Singapore&q=Food%20Court)?
