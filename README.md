@@ -1,6 +1,6 @@
 # Aim
 
-A Website that shows you your closest Hawker center in Singapore
+A Website that shows you your closest Hawker center in Singapore <http://h.dabase.com/>.
 
 # Getting the data
 
@@ -28,3 +28,10 @@ This is where HAWKERCENTRE.kml comes from.
 [NEA Hawkers page](http://www.myhawkers.sg/) sadly has an [unusable hawkers map](http://www.myhawkers.sg/discover).
 
 However it does expose its API and the myhawkers.json is the best information I've seen.
+
+# Improving [[myhawkers.json]]
+
+* Do a pull request on [[myhawkers.json]], since it's what drives the map!
+* Include [Kopitiam outlets](http://www.kopitiam.biz/outlet_singapore.html)
+* Include places like [makansutra's glutton bay](http://www.makansutra.com/eateries_stalls.asp)
+* Other food courts that seemingly are unlisted like [Peace Food court](https://foursquare.com/v/food-district-food-court/4ca2e813d7c33704c06d9c62). Is it possible to gleam [Food court listing from Foursquare](https://foursquare.com/explore?mode=url&near=Singapore&q=Food%20Court)?
